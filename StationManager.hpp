@@ -6,7 +6,7 @@
  * It provides a constructor, destructor, and methods to manage and present the details of the station manager.
  * 
  * @date December 1, 2024
- * @author Kun Feng Wei
+ * @author kufunei
  */
 
 #ifndef STATIONMANAGER_HPP
